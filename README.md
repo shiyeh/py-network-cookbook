@@ -1,4 +1,6 @@
 
+<!-- Just a copy from python-network-programming-cookbook -->
+
 # 	Python Network Programming Cookbook – Second Edition
 This is the code repository for [Python Network Programming Cookbook - Second Edition](https://www.packtpub.com/networking-and-servers/python-network-programming-cookbook-second-edition?utm_source=github&utm_medium=repository&utm_content=9781786463999), published by [Packt](https://www.packtpub.com). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
